@@ -2,8 +2,8 @@
 \
 **Including:**\
 &ensp;+ Sign in with username and password.\
-&ensp;+ Sign up (have to have google app keys.\
-&ensp;+ Realtime data statistic.\
+&ensp;+ Sign up (have to have google app keys), account data upload to firebase.\
+&ensp;+ Realtime data statistic, data upload to firebase.\
 &ensp;+ Past data in chart with option to filter between dates.\
 &ensp;+ Changing data threshold, sending notification on website, to phone and to email when data is over threshold.\
 &ensp;+ Chatbot with chatgpt having both old and current data included.\
